@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kk06it21
+- 👋 Hi, I’m Kirti Sharma
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Introduction to Containers, Kubernetes, and OpenShift V2
 - 💞️ I’m looking to collaborate on Containers, Kubernetes
